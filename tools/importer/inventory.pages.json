@@ -1,0 +1,514 @@
+{
+  "templates": [
+    {
+      "name": "'Portfolio Grid'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://poliklinika.skoda-auto.cz/galerie-2024",
+          "uuid": "2deb100e7be02fc048bd5c6ea51d62c08691aa09"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/online_cviceni",
+          "uuid": "14091e35c7bd7ab98a87f465513fdd2bff995382"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/galerie-2021",
+          "uuid": "9d85ed9a221b3ea59d9aa61e30d7999bffdebd0d"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/akce-zkouska",
+          "uuid": "7af4d641a7e7c365fe555e3cde35d872ddc77cad"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/videa_a_podcasty",
+          "uuid": "dcfbf0af3aad3bcc1a11509ec92430b6e8b9cd05"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/galerie-2025",
+          "uuid": "f402443643085415d5aa1a2006e3b1c88473193c"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/galerie-2019",
+          "uuid": "918345bdde9bb8d983e22d389214b7b7f128703d"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/galerie-2022",
+          "uuid": "9b7df5eda499e0a95861b0c22c1dc23f8280d027"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/clanky_a_rozhovory",
+          "uuid": "bf076d0ba3ea84cf32b5a85e1fb8bf2964b4b778"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/occupational-medicine",
+          "uuid": "646334a68c7f081abbcd4d351d5276ef19559a88"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/galerie-2018",
+          "uuid": "58e1c1ec9a6d0b8f1356b2cb7e1e1c01a4411173"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/galerie",
+          "uuid": "7a4cd360803fba0161c81557b0a194325b1c36b8"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/vyzvy_25",
+          "uuid": "94eee60cb97e44996453b4d07290e8188e197fbe"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/aplikace_strava",
+          "uuid": "e934522284e6449783b47cb067fbae156fbf24e9"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/memorandum-provision-of-health-services",
+          "uuid": "7ccd055550c5487c7ec7cdb64c6790b656715228"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/vyhled%C3%A1v%C3%A1n%C3%AD",
+          "uuid": "224e61087b631614f5dc703a25e54f5044eb1d91"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/registrace",
+          "uuid": "2f8248faaf2a6730e99b624c0231ee10e4788f6e"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/skofit-co-se-nam-povedlo",
+          "uuid": "9697f5c26e67ff8327463f9ab95606cddc7934ad"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/csr_projekty",
+          "uuid": "cfeba22762ad9fd734eaa57cc59f5f54bb05a5eb"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/formular-skofit",
+          "uuid": "3b062fd75f52e0ad9c3e3da5ec1abe7496f9e005"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/rozhovor_videcky",
+          "uuid": "2ee6a8ce81a977a5914656b90d878551bb1a1d30"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/vodni_sporty",
+          "uuid": "e516b65e4c36d58136f4b26a0913880203ea17fa"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/o-poliklinice",
+          "uuid": "3a9836d1f59f8cb3585be46e6c54169b3c4ffa14"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/personal-data-protection-statement",
+          "uuid": "3f625640ef5a9626b537c3523726b25e0ce3a7ed"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/personal-data",
+          "uuid": "1c666435b359a6bc3b1fd5053e8a3eb8bd4ebd54"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/%C5%A0kofit-p%C5%99edn%C3%A1%C5%A1ka",
+          "uuid": "efb6fa7cc415ba8479464415d05c47dbae54a1fa"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/indie",
+          "uuid": "046cee54534253845d961bd95cbc06f52cd0309f"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/vietnam",
+          "uuid": "04b4c9b0a73373381df19a3a1fb56307069802e7"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/media",
+          "uuid": "f314912184b84360aeed0b2f813b6c3c6ba175f5"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/den-zdravi",
+          "uuid": "388ce55c23e96debdd61391fa9026a125699e2e6"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/copyright",
+          "uuid": "709d72203f8572b4abe43d19d8e57c79cd1a1781"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/du%C5%A1evn%C3%AD-zdrav%C3%AD",
+          "uuid": "6ce53bc9175f97ee11606a9b55a0b05f58ff0eb4"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/dech",
+          "uuid": "1b29433be16654fc6a34e108a6eaea2ebcf7279c"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/siti_rousky",
+          "uuid": "1a37907bb77cd077b8d783d53ce419cad9441d60"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/rozhovor_duskova",
+          "uuid": "86ad2bb9efdd5752c8a9159aff3f31b1bc73665d"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/rozhovor_kovarik",
+          "uuid": "469985740ef13d716ee0ed9d7bca896573d15c54"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/otuzovani",
+          "uuid": "710feb8ee97e574918b56b3e4ddf53e40f81a842"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/hydratace",
+          "uuid": "123b2cbb4965958a6dc9b622ec351afbb1dc1764"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/contacts-us",
+          "uuid": "b1fe8cd0317f84ef5a899539bd972482e2f2439d"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/privacy-policy",
+          "uuid": "bc9648bb2ba13df1fe674f41257fea3c125ad6b7"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/cz",
+          "uuid": "bd3604fb37ffec1255069c6b0840e3050119c886"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/cookies",
+          "uuid": "e8cd29c1002135abab991bf1c38cb7e0f001ea55"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/meditace",
+          "uuid": "f99a5142042d262204a5422f22a43e88d7877b0f"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/stomatology",
+          "uuid": "e94c469bffe76ba514762f495ddac736b1f4cfdf"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/practical-medicine",
+          "uuid": "93a386cf79b0ce815750e5e023e655d58367393d"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/practical-medicine-skoda-auto",
+          "uuid": "2976363f9341c844a5ce51cc7f618c003793df71"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/gynecology",
+          "uuid": "f11645033bd873d1513b56acd382bfb8761c2038"
+        }
+      ]
+    },
+    {
+      "name": "E-commerce Product Listing",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://poliklinika.skoda-auto.cz/skofit",
+          "uuid": "94cedbbb07d3337e8f5e6c771ba1fea110d53ab3"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/ukoncene_vyzvy",
+          "uuid": "b58d8cd33245815cc4beb176ee138fdce02fe0b4"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/galerie-2023",
+          "uuid": "8c83d2e541c532cb3024cd1d32f7826466b51d08"
+        }
+      ]
+    },
+    {
+      "name": "Grid Listing Page",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://poliklinika.skoda-auto.cz/skofit-novinky",
+          "uuid": "fa839079832979f5b48907e91f42b83db722e163"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/novinky",
+          "uuid": "9d6aafe437e822fa3ffb195c8aeded6e808b82fa"
+        }
+      ]
+    },
+    {
+      "name": "Hero Section Template",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/recruitment-of-a-doctor-at-skoda-auto",
+          "uuid": "4a6abdb505d95db54747fde0c69ba6a0fda604bc"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/change-of-office-hours-mudr-kralova",
+          "uuid": "98297670461add40d99525d951fe9a8baf2ec3b3"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/collection-ambulance",
+          "uuid": "324791ba4fa66dca9dd90cf6baec7feea53699e7"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/doctors-holidays",
+          "uuid": "4992a7263bce60db8d67802ce6a4b55966dcb813"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/dovolena-mudr.-kepkova",
+          "uuid": "32092de56c9ebb254f0059303c74e09ca64a8c61"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/recruitment-of-physiotherapist",
+          "uuid": "7f11548c1bf61078ce874df43d5d9faf51d0417e"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/summer-holidays-opening-hours",
+          "uuid": "27096c3452482e23876dc32ae9f226daf86343a8"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/x-ray",
+          "uuid": "0f816f5077cdff00ef4e30cdb80566a801a15fec"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/holiday-mudr-vedral",
+          "uuid": "ea6fd8ae40ae8e4dfa58fe3acce606babc0cea64"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/mudr-kepkova-2",
+          "uuid": "c419649f562b4f709510db012f8c3234055cc973"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/odborna-prednaska-skofit",
+          "uuid": "b17103b20708a4ccd35864fb9c4da90185f68b41"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/vacation-mudr-janstova",
+          "uuid": "40ee8cf3436de13764fade8dedd2861970135eb2"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/vacation-audio",
+          "uuid": "2ee07a5ed32201a6cebceab461e1d6e2d2c4c35d"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Overview'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://poliklinika.skoda-auto.cz/pharmacy",
+          "uuid": "e18fa6d8a9afed9cece2df41044dd42e2ce8f097"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/cardiology",
+          "uuid": "1ab1ba08984a4c2060bc2c644ac02af50bbc5040"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/mudr-josef-cepelik-en",
+          "uuid": "67a404144c7813e72c57cab91d33c6f414fddda7"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/mudr-barbora-kukackova-en",
+          "uuid": "3d433e2f0be82251ae55fb93389f54145384c30a"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/dental-laboratory",
+          "uuid": "213dacde41834d256e67eaa4501b98284edb52b8"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/physiotherapy",
+          "uuid": "9d83cb3452e29e5ebca9ae580707e39a359cb405"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/mudr-masoud-faal",
+          "uuid": "5ac2e3632a2c176ddaa8207abb72b02ed95b39e1"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/diabetology-endocrinology",
+          "uuid": "7340486599605859100ea64cc274168f61677127"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/mudr-gabriela-fialova-en",
+          "uuid": "c7b53115f0e706096b611da07f8d9af57d3ae1cb"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/ophthalmology",
+          "uuid": "8ecae50ce011c4e65f35a38bb7836aa70d74154e"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/dental-x-ray",
+          "uuid": "90de80f1f8be418d8cafb1bdff3b121785bd48cd"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/viktoriia-khomichak-en",
+          "uuid": "f58914444211edfeb889e154fb203f1223abfab5"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/optics",
+          "uuid": "b1c22f6b88277d61b4b3dad9856a7d22a6193ae7"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/mudr-libor-marysko-en",
+          "uuid": "ddba9a3a8ed2853218c1355e22df5f31f16b7575"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/mddr-sandra-kocourkova-en",
+          "uuid": "988cacebf44b533ab84fd2d037c42ef5f385b647"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/mddr-zdenka-hlouskova-en",
+          "uuid": "b4ebef92e31e80d0380fce9b0741046c7b0d9030"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/mudr-iva-potmesilova-en",
+          "uuid": "626f27f2f4ee6728eae0b210c9611b480760fde9"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/clinical-psychology-and-psychiatry",
+          "uuid": "a9db8b174eff70eb1c8ae44bc83cac0f0ce726ee"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/mudr-maria-oskerova-en",
+          "uuid": "ece153515bb1f90f5e4658cb455d5eb11ae90189"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/mudr-tomas-lehky-en",
+          "uuid": "1c030b847ddff295e8dedbfbb02ce71f191e42af"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/mudr-zuzana-janstova-en",
+          "uuid": "2304fd6334ab5a6d2aca8457656d711f297a97d0"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/ent-en",
+          "uuid": "c7609e828c4e81700c185fbb22f4f15fd70ca1f3"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/internal-medicine",
+          "uuid": "a2b7994b23a50cacaf8ed28cff70254cf601f325"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/dental-surgery",
+          "uuid": "c71eef3f55ab766406d171f7a5c04daac1e4f08f"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/pulmonology",
+          "uuid": "f18eb9d91046a9c6e8b4acccd2f0d519b6013a44"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/collection-ambulance",
+          "uuid": "4e5890b9abd4e417b2d514dbd7850957445ab7bf"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/sonography",
+          "uuid": "166ab3dec3da3c1d48a365f60877b0051e527aeb"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/dermatology",
+          "uuid": "f2c84d7d05ed4eed38fa71e93efbc73e6eb5403b"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/transport-health-service",
+          "uuid": "58d652930c9b81b126333e4d002410d8c9c8e7c0"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/neurology",
+          "uuid": "e7840a1f02d652adec28a0f7d34acbb253f76b16"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/mudr-zdenka-sombergova-en",
+          "uuid": "b6762ad2d063c0f69a9be8c9176fc213ef268678"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/mudr-tereza-stroufova-en",
+          "uuid": "4d4ff7cee8876c9f4fc8bdb6c54668614ed60a27"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/allergology-and-immunology",
+          "uuid": "c9f5ae0d84fab788c0f62a97c8cf619b4457fcca"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/mudr-petra-zapadlova-en",
+          "uuid": "4b5c8dbb3c3832a8e53f40fb4227912cc6601d49"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/mudr-renata-prokesova-en",
+          "uuid": "dcc4c30dcd54b3baf98d5ac182631009b6037481"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/mudr-martina-kralova-en",
+          "uuid": "54af767c602abdb012bc0e01729d6539f4c7692d"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/mudr-helena-prucknerova-en",
+          "uuid": "6921ed55729c0921e86d23b21d37206733820c9f"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/mddr-marie-sladkova-en",
+          "uuid": "2eff10e41555e168eb8d8f5f3ee6aef5db10bc02"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/dental-hygiene",
+          "uuid": "db90b0650358de20760a9512ec022067080a7484"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/mudr-jitka-pavlickova-en",
+          "uuid": "4a8bcbcabea41ffe6d60f4fcd22190bd9d5b0b0d"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/x-ray",
+          "uuid": "2f7a94c350b5b6ea8c067b3ddc9d3d9252927b7f"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/orthopedics",
+          "uuid": "7b1710843b5e9e2a079bc5abb8916d4b2a1f3003"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/surgery",
+          "uuid": "796f25bf531ef1fbe78b79217061331dd951f5ab"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Layout'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://poliklinika.skoda-auto.cz/covid-19/covid-19",
+          "uuid": "6f7937a4fe504376aaceeb38308a0e6acc2a5505"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Grid'",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/ud%C3%A1lost-1",
+          "uuid": "0ad57fca9ca6f7188d1971970b43d1072f0c31de"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/ud%C3%A1lost-1-duplikovat-0",
+          "uuid": "dd0c9d1691930529fa231ba02e05c69efb1cfd68"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/ud%C3%A1lost-1-duplikovat-0-1",
+          "uuid": "64a6a1b9f0a8c7cfc112f9268bc32b01369dbb8f"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/ud%C3%A1lost-1-duplikovat-0-5",
+          "uuid": "3f70319a4dcf0357b2c38a7027f5a26555c77a0c"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/ud%C3%A1lost-1-duplikovat-0-4",
+          "uuid": "ab01ba87f2df51814bae41af7ecad572b683b220"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/ud%C3%A1lost-1-duplikovat-0-3",
+          "uuid": "7a2695bd46a384415c98d420cf9cfdc2955861cb"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/ud%C3%A1lost-1-duplikovat-0-2",
+          "uuid": "3f15c22d0eada6afac7b417fa7226d66ee101770"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/ud%C3%A1lost-1-duplikovat-0-6",
+          "uuid": "dab9c4c71fe7a5151969d19fe41e5103e638f112"
+        }
+      ]
+    }
+  ]
+}

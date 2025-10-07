@@ -3153,18 +3153,18 @@
       "key": "columns10",
       "instances": [
         {
-          "url": "https://poliklinika.skoda-auto.cz/",
-          "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
-          "uuid": "050926d2-05-912cbdac80b3223704320e0667803845caf0ae9b",
-          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[6]",
-          "section": "section-4"
-        },
-        {
           "url": "https://poliklinika.skoda-auto.cz/skofit",
           "urlHash": "94cedbbb07d3337e8f5e6c771ba1fea110d53ab3",
           "uuid": "94cedbbb-19-914f32afd8aa7afa7c70dc651f3316fe7bd33109",
           "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[7]",
           "section": "section-9"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/",
+          "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
+          "uuid": "050926d2-05-912cbdac80b3223704320e0667803845caf0ae9b",
+          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[6]",
+          "section": "section-4"
         }
       ]
     },
@@ -3201,13 +3201,6 @@
           "urlHash": "04b4c9b0a73373381df19a3a1fb56307069802e7",
           "uuid": "04b4c9b0-00-04129dea1e2b8c48408ff8c2f2beda20a64a8d31",
           "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://poliklinika.skoda-auto.cz/",
-          "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
-          "uuid": "050926d2-00-04129dea1e2b8c48408ff8c2f2beda20a64a8d31",
-          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]",
-          "section": "section-2"
         },
         {
           "url": "https://poliklinika.skoda-auto.cz/w/ud%C3%A1lost-1",
@@ -3354,12 +3347,6 @@
           "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]"
         },
         {
-          "url": "https://poliklinika.skoda-auto.cz/w/vacation-mddr-sladkova",
-          "urlHash": "38d5b3146603d9354bfba93b0c2a598165920ea2",
-          "uuid": "38d5b314-00-a65b514a26bd6396ac37ee23f5f4a2e045f4968c",
-          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]/div[1]"
-        },
-        {
           "url": "https://poliklinika.skoda-auto.cz/o-poliklinice",
           "urlHash": "3a9836d1f59f8cb3585be46e6c54169b3c4ffa14",
           "uuid": "3a9836d1-00-04129dea1e2b8c48408ff8c2f2beda20a64a8d31",
@@ -3431,12 +3418,6 @@
           "urlHash": "4b5c8dbb3c3832a8e53f40fb4227912cc6601d49",
           "uuid": "4b5c8dbb-00-04129dea1e2b8c48408ff8c2f2beda20a64a8d31",
           "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://poliklinika.skoda-auto.cz/w/mudr-kepkova-1",
-          "urlHash": "4c1649ec00fe6a1c0928246a8700a81d6fc0764f",
-          "uuid": "4c1649ec-00-a65b514a26bd6396ac37ee23f5f4a2e045f4968c",
-          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]/div[1]"
         },
         {
           "url": "https://poliklinika.skoda-auto.cz/mudr-tereza-stroufova-en",
@@ -3913,6 +3894,25 @@
           "urlHash": "fa839079832979f5b48907e91f42b83db722e163",
           "uuid": "fa839079-00-04129dea1e2b8c48408ff8c2f2beda20a64a8d31",
           "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/mudr-kepkova-1",
+          "urlHash": "4c1649ec00fe6a1c0928246a8700a81d6fc0764f",
+          "uuid": "4c1649ec-00-a65b514a26bd6396ac37ee23f5f4a2e045f4968c",
+          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/vacation-mddr-sladkova",
+          "urlHash": "38d5b3146603d9354bfba93b0c2a598165920ea2",
+          "uuid": "38d5b314-00-a65b514a26bd6396ac37ee23f5f4a2e045f4968c",
+          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/",
+          "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
+          "uuid": "050926d2-00-04129dea1e2b8c48408ff8c2f2beda20a64a8d31",
+          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]",
+          "section": "section-2"
         }
       ]
     },
@@ -4367,12 +4367,6 @@
           "section": "section-1"
         },
         {
-          "url": "https://poliklinika.skoda-auto.cz/",
-          "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
-          "uuid": "050926d2-15-6ce434abd05e2eb7e82045aaf37ec58e6224f381",
-          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[5]"
-        },
-        {
           "url": "https://poliklinika.skoda-auto.cz/w/ud%C3%A1lost-1",
           "urlHash": "0ad57fca9ca6f7188d1971970b43d1072f0c31de",
           "uuid": "0ad57fca-16-2cf5d14fc4818adbffbb424ef2f42819877cb5db",
@@ -4541,13 +4535,6 @@
           "section": "section-1"
         },
         {
-          "url": "https://poliklinika.skoda-auto.cz/w/vacation-mddr-sladkova",
-          "urlHash": "38d5b3146603d9354bfba93b0c2a598165920ea2",
-          "uuid": "38d5b314-11-2cf5d14fc4818adbffbb424ef2f42819877cb5db",
-          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]",
-          "section": "section-1"
-        },
-        {
           "url": "https://poliklinika.skoda-auto.cz/o-poliklinice",
           "urlHash": "3a9836d1f59f8cb3585be46e6c54169b3c4ffa14",
           "uuid": "3a9836d1-05-6ce434abd05e2eb7e82045aaf37ec58e6224f381",
@@ -4628,13 +4615,6 @@
           "urlHash": "4b5c8dbb3c3832a8e53f40fb4227912cc6601d49",
           "uuid": "4b5c8dbb-08-6ce434abd05e2eb7e82045aaf37ec58e6224f381",
           "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[5]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://poliklinika.skoda-auto.cz/w/mudr-kepkova-1",
-          "urlHash": "4c1649ec00fe6a1c0928246a8700a81d6fc0764f",
-          "uuid": "4c1649ec-11-2cf5d14fc4818adbffbb424ef2f42819877cb5db",
-          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]",
           "section": "section-1"
         },
         {
@@ -5187,28 +5167,26 @@
           "uuid": "fa839079-07-6ce434abd05e2eb7e82045aaf37ec58e6224f381",
           "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[5]",
           "section": "section-1"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 17,
-      "source": "Hero",
-      "target": "Hero (hero17)",
-      "key": "hero17",
-      "instances": [
+        },
         {
-          "url": "https://poliklinika.skoda-auto.cz/",
-          "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
-          "uuid": "050926d2-03-eed48d2492109e4a12bc451c766256fdd2136ce3",
-          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[3]"
+          "url": "https://poliklinika.skoda-auto.cz/w/mudr-kepkova-1",
+          "urlHash": "4c1649ec00fe6a1c0928246a8700a81d6fc0764f",
+          "uuid": "4c1649ec-11-2cf5d14fc4818adbffbb424ef2f42819877cb5db",
+          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/vacation-mddr-sladkova",
+          "urlHash": "38d5b3146603d9354bfba93b0c2a598165920ea2",
+          "uuid": "38d5b314-11-2cf5d14fc4818adbffbb424ef2f42819877cb5db",
+          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]/div[5]",
+          "section": "section-1"
         },
         {
           "url": "https://poliklinika.skoda-auto.cz/",
           "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
-          "uuid": "050926d2-06-914f32afd8aa7afa7c70dc651f3316fe7bd33109",
-          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[7]",
-          "section": "section-5"
+          "uuid": "050926d2-15-6ce434abd05e2eb7e82045aaf37ec58e6224f381",
+          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[5]"
         }
       ]
     },
@@ -5298,12 +5276,6 @@
           "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]"
         },
         {
-          "url": "https://poliklinika.skoda-auto.cz/w/vacation-mddr-sladkova",
-          "urlHash": "38d5b3146603d9354bfba93b0c2a598165920ea2",
-          "uuid": "38d5b314-01-0e1580179b0db9fdb981c78f13347cefc3df826c",
-          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]"
-        },
-        {
           "url": "https://poliklinika.skoda-auto.cz/w/vacation-mudr-janstova",
           "urlHash": "40ee8cf3436de13764fade8dedd2861970135eb2",
           "uuid": "40ee8cf3-01-0e1580179b0db9fdb981c78f13347cefc3df826c",
@@ -5319,12 +5291,6 @@
           "url": "https://poliklinika.skoda-auto.cz/w/recruitment-of-a-doctor-at-skoda-auto",
           "urlHash": "4a6abdb505d95db54747fde0c69ba6a0fda604bc",
           "uuid": "4a6abdb5-01-0e1580179b0db9fdb981c78f13347cefc3df826c",
-          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]"
-        },
-        {
-          "url": "https://poliklinika.skoda-auto.cz/w/mudr-kepkova-1",
-          "urlHash": "4c1649ec00fe6a1c0928246a8700a81d6fc0764f",
-          "uuid": "4c1649ec-01-0e1580179b0db9fdb981c78f13347cefc3df826c",
           "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]"
         },
         {
@@ -5362,12 +5328,25 @@
           "urlHash": "ea6fd8ae40ae8e4dfa58fe3acce606babc0cea64",
           "uuid": "ea6fd8ae-01-0e1580179b0db9fdb981c78f13347cefc3df826c",
           "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/mudr-kepkova-1",
+          "urlHash": "4c1649ec00fe6a1c0928246a8700a81d6fc0764f",
+          "uuid": "4c1649ec-01-0e1580179b0db9fdb981c78f13347cefc3df826c",
+          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]"
+        },
+        {
+          "url": "https://poliklinika.skoda-auto.cz/w/vacation-mddr-sladkova",
+          "urlHash": "38d5b3146603d9354bfba93b0c2a598165920ea2",
+          "uuid": "38d5b314-01-0e1580179b0db9fdb981c78f13347cefc3df826c",
+          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]"
         }
       ]
     },
     {
       "name": "unknown",
       "cluster": 21,
+      "key": "unknown21",
       "instances": [
         {
           "url": "https://poliklinika.skoda-auto.cz/formular-skofit",
@@ -5457,37 +5436,6 @@
           "uuid": "3a9836d1-03-eed48d2492109e4a12bc451c766256fdd2136ce3",
           "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[3]",
           "section": "section-2"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 27,
-      "source": "Cards",
-      "target": "Cards (cards27)",
-      "key": "cards27",
-      "instances": [
-        {
-          "url": "https://poliklinika.skoda-auto.cz/",
-          "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
-          "uuid": "050926d2-07-53fbe31ab858b03131b4d37dabbcfa09a82582a3",
-          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[8]",
-          "section": "section-5"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 28,
-      "source": "Cards",
-      "target": "Cards (cards28)",
-      "key": "cards28",
-      "instances": [
-        {
-          "url": "https://poliklinika.skoda-auto.cz/",
-          "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
-          "uuid": "050926d2-02-87bd2dee01e7872016bb446af69b6df47c79cf45",
-          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[2]"
         }
       ]
     },
@@ -5588,37 +5536,6 @@
       ]
     },
     {
-      "name": "Cards",
-      "cluster": 32,
-      "source": "Cards",
-      "target": "Cards (cards32)",
-      "key": "cards32",
-      "instances": [
-        {
-          "url": "https://poliklinika.skoda-auto.cz/",
-          "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
-          "uuid": "050926d2-04-3a9ec23e95e3f5a2cd54b92de970f7e318f13991",
-          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[4]"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 33,
-      "source": "Columns",
-      "target": "Columns (columns33)",
-      "key": "columns33",
-      "instances": [
-        {
-          "url": "https://poliklinika.skoda-auto.cz/",
-          "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
-          "uuid": "050926d2-13-6d0ae6b7f3a4f4086b2646b3ceb7b21deba1f563",
-          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[9]/div[2]/div[6]",
-          "section": "section-2"
-        }
-      ]
-    },
-    {
       "name": "Columns",
       "cluster": 34,
       "source": "Columns",
@@ -5636,6 +5553,7 @@
     {
       "name": "unknown",
       "cluster": 35,
+      "key": "unknown35",
       "instances": [
         {
           "url": "https://poliklinika.skoda-auto.cz/vyhled%C3%A1v%C3%A1n%C3%AD",
@@ -5661,22 +5579,6 @@
       ]
     },
     {
-      "name": "Columns",
-      "cluster": 37,
-      "source": "Columns",
-      "target": "Columns (columns37)",
-      "key": "columns37",
-      "instances": [
-        {
-          "url": "https://poliklinika.skoda-auto.cz/",
-          "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
-          "uuid": "050926d2-11-113a79acf919795b90e4ef966166a5a3237e6fcb",
-          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[9]/div[2]/div[4]",
-          "section": "section-2"
-        }
-      ]
-    },
-    {
       "name": "Video",
       "cluster": 38,
       "source": "Video",
@@ -5696,22 +5598,6 @@
           "uuid": "94cedbbb-13-152ec8b1e32d0c2adba2baaeab5229a1c4aaa01c",
           "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[5]/div[1]/div[4]",
           "section": "section-8"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 39,
-      "source": "Cards",
-      "target": "Cards (cards39)",
-      "key": "cards39",
-      "instances": [
-        {
-          "url": "https://poliklinika.skoda-auto.cz/",
-          "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
-          "uuid": "050926d2-01-bcd680c7e5f38dd7ab71e3ff321d5f247fa0497c",
-          "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[1]",
-          "section": "section-3"
         }
       ]
     }
@@ -5786,6 +5672,45 @@
     {
       "url": "https://poliklinika.skoda-auto.cz/",
       "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
+      "uuid": "050926d2-01-bcd680c7e5f38dd7ab71e3ff321d5f247fa0497c",
+      "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://poliklinika.skoda-auto.cz/",
+      "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
+      "uuid": "050926d2-02-87bd2dee01e7872016bb446af69b6df47c79cf45",
+      "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[2]"
+    },
+    {
+      "url": "https://poliklinika.skoda-auto.cz/",
+      "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
+      "uuid": "050926d2-03-eed48d2492109e4a12bc451c766256fdd2136ce3",
+      "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[3]"
+    },
+    {
+      "url": "https://poliklinika.skoda-auto.cz/",
+      "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
+      "uuid": "050926d2-04-3a9ec23e95e3f5a2cd54b92de970f7e318f13991",
+      "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[4]"
+    },
+    {
+      "url": "https://poliklinika.skoda-auto.cz/",
+      "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
+      "uuid": "050926d2-06-914f32afd8aa7afa7c70dc651f3316fe7bd33109",
+      "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[7]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://poliklinika.skoda-auto.cz/",
+      "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
+      "uuid": "050926d2-07-53fbe31ab858b03131b4d37dabbcfa09a82582a3",
+      "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[8]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://poliklinika.skoda-auto.cz/",
+      "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
       "uuid": "050926d2-08-047307a8343b37508b1b8d4fa62f7b71aeecf4a3",
       "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[9]/div[2]/div[1]",
       "section": "section-2"
@@ -5807,8 +5732,22 @@
     {
       "url": "https://poliklinika.skoda-auto.cz/",
       "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
+      "uuid": "050926d2-11-113a79acf919795b90e4ef966166a5a3237e6fcb",
+      "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[9]/div[2]/div[4]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://poliklinika.skoda-auto.cz/",
+      "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
       "uuid": "050926d2-12-2d511045e178a53999799e9ebb17eb20a6873f96",
       "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[9]/div[2]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://poliklinika.skoda-auto.cz/",
+      "urlHash": "050926d207fd49fa317b5151618157aa1f845ea2",
+      "uuid": "050926d2-13-6d0ae6b7f3a4f4086b2646b3ceb7b21deba1f563",
+      "xpath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[3]/div[9]/div[2]/div[6]",
       "section": "section-2"
     },
     {
